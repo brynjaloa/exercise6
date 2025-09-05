@@ -1,4 +1,4 @@
 b = 24
 print(b)
 
-#yolo
+print("Hæ, þetta er Brynja")
